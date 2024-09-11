@@ -10,3 +10,6 @@ x = 1
 b = lambda x: x + 1
 print(b(4))
 
+
+get
+
