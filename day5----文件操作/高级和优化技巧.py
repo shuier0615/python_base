@@ -7,7 +7,7 @@ lines = []
 def process_batch(lines):
     print(lines)
 
-
+a.
 with open('new_location.txt', 'r') as file:
     for i, line in enumerate(file):
         lines.append(line)
